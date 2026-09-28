@@ -45,7 +45,7 @@ The **Web Development Wing** powers the digital frontier for Nexus. We design an
 
 | Member | Role | GitHub |
 | :--- | :--- | :--- |
-| **Jatin Pandey** | Lead / Administrator | [@satiricalguru](https://github.com/satiricalguru) |
+| **Jatin Pandey** | Core Team | [@satiricalguru](https://github.com/satiricalguru) |
 | **Vansh Sood** | Core Team | [@vs2030codes-ops](https://github.com/vs2030codes-ops) |
 | **Lakshya** | Core Team | [@lakshya-agrawal254](https://github.com/lakshya-agrawal254) |
 | **Aarav Srivastava** | Core Team | [@Aaravcodesss](https://github.com/Aaravcodesss) |
