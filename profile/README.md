@@ -51,6 +51,7 @@ The **Web Development Wing** powers the digital frontier for Nexus. We design an
 | **Aarav Srivastava** | Core Team | [@Aaravcodesss](https://github.com/Aaravcodesss) |
 | **Aditya Goyal** | Core Team | [@SynthReaper](https://github.com/SynthReaper) |
 | **Priyanshu** | Core Team | [@Priyanshuf7](https://github.com/Priyanshuf7) |
+| **Saad Seraj** | Core Team | [@saadseraj130-arch](https://github.com/saadseraj130-arch) |
 
 ---
 
