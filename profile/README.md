@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="profile/nexus-logo.png" alt="Nexus Logo" width="380" style="border-radius: 20px;" />
+  <img src="https://raw.githubusercontent.com/Nexus-Web-Development/.github/main/profile/nexus-logo.png" alt="Nexus Logo" width="380" style="border-radius: 20px;" />
 
   # 🌌 Nexus Web Development
   ### *The Official Web Development Wing of Nexus — Research • Space • Technology Club*
