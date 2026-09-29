@@ -22,7 +22,7 @@
     <a href="https://github.com/Nexus-Web-Development"><img src="https://img.shields.io/badge/Organization-Nexus_Web_Development-D4AF37?style=for-the-badge&logo=github&logoColor=black" /></a>
     <a href="https://jaipur.manipal.edu/"><img src="https://img.shields.io/badge/Campus-Manipal_University_Jaipur-F15A24?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
     <a href="#-interactive-tech-radar"><img src="https://img.shields.io/badge/Stack-WebGL_•_Next.js_•_Three.js-000000?style=for-the-badge&logo=three.js&logoColor=F5CE62" /></a>
-    <a href="#-core-team--collaborators"><img src="https://img.shields.io/badge/Team-9_Core_Members-10B981?style=for-the-badge&logo=shield" /></a>
+    <a href="#-core-team--collaborators"><img src="https://img.shields.io/badge/Team-10_Members-10B981?style=for-the-badge&logo=shield" /></a>
   </p>
 
   <!-- Quick Navigation Pills -->
@@ -100,6 +100,15 @@ The **Web Development Wing** translates scientific research, rocketry telemetry,
 <div align="center">
 
 <table>
+  <tr>
+    <td align="center" colspan="3">
+      <a href="https://github.com/Vedant275">
+        <img src="https://github.com/Vedant275.png?size=100" width="85" height="85" style="border-radius: 50%;" /><br />
+        <sub><b>Vedant Sharma</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Vice_President-F5CE62?style=flat-square" />
+    </td>
+  </tr>
   <tr>
     <td align="center" width="130">
       <a href="https://github.com/satiricalguru">
