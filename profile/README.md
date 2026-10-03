@@ -1,228 +1,251 @@
 <div align="center">
 
-  <!-- Widescreen Hero Banner -->
-  <a href="https://github.com/Nexus-Web-Development">
-    <img src="https://raw.githubusercontent.com/Nexus-Web-Development/Nexus-Web-Page/main/nexus-banner.png" alt="Nexus Widescreen Banner" width="100%" style="border-radius: 12px;" />
-  </a>
+<a href="https://nexus-official-site.vercel.app">
+  <img src="https://raw.githubusercontent.com/Nexus-Web-Development/.github/main/profile/banner.png" alt="Nexus — Where curiosity meets orbit" width="100%" />
+</a>
 
-  <br /><br />
-
-  <!-- Animated Typing Header -->
-  <a href="https://github.com/Nexus-Web-Development">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=F5CE62&center=true&vCenter=true&width=750&height=55&lines=NEXUS+WEB+DEVELOPMENT;RESEARCH+%7C+SPACE+%7C+TECHNOLOGY;MANIPAL+UNIVERSITY+JAIPUR;PIONEERING+COSMIC+WEB+EXPERIENCES" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <b>The Official Web Engineering & Digital Innovation Wing of Nexus</b><br />
-    <i>Manipal University Jaipur (MUJ) • Rajasthan, India</i>
-  </p>
-
-  <!-- Interactive Badges -->
-  <p align="center">
-    <a href="https://github.com/Nexus-Web-Development"><img src="https://img.shields.io/badge/Organization-Nexus_Web_Development-D4AF37?style=for-the-badge&logo=github&logoColor=black" /></a>
-    <a href="https://jaipur.manipal.edu/"><img src="https://img.shields.io/badge/Campus-Manipal_University_Jaipur-F15A24?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
-    <a href="#-interactive-tech-radar"><img src="https://img.shields.io/badge/Stack-WebGL_•_Next.js_•_Three.js-000000?style=for-the-badge&logo=three.js&logoColor=F5CE62" /></a>
-    <a href="#-core-team--collaborators"><img src="https://img.shields.io/badge/Team-10_Members-10B981?style=for-the-badge&logo=shield" /></a>
-  </p>
-
-  <!-- Quick Navigation Pills -->
-  <p align="center">
-    <a href="#-about-the-mission"><b>[ 🚀 Mission ]</b></a> •
-    <a href="#-core-domains--tracks"><b>[ 🪐 Domains ]</b></a> •
-    <a href="#-interactive-tech-radar"><b>[ 🛠️ Tech Radar ]</b></a> •
-    <a href="#-core-team--collaborators"><b>[ 👥 Team ]</b></a> •
-    <a href="#-active-projects"><b>[ 🛰️ Projects ]</b></a> •
-    <a href="#-how-to-contribute"><b>[ 🤝 Join Us ]</b></a>
-  </p>
-
-  <img src="https://raw.githubusercontent.com/Nexus-Web-Development/Nexus-Web-Page/main/assets/cosmic-divider.svg" width="100%" />
-
-</div>
-
-## 🚀 About The Mission
-
-**Nexus** is the premier student-led **Research, Space, and Technology Club** at **Manipal University Jaipur**.
-
-The **Web Development Wing** translates scientific research, rocketry telemetry, planetary rover systems, and astronomy discoveries into captivating, high-performance web applications and spatial 3D interfaces.
-
-```
-                  ┌─────────────────────────────────────┐
-                  │      NEXUS RESEARCH & SPACE         │
-                  └──────────────────┬──────────────────┘
-                                     │
-           ┌─────────────────────────┼─────────────────────────┐
-           ▼                         ▼                         ▼
-   ┌───────────────┐         ┌───────────────┐         ┌───────────────┐
-   │ Space & Tech  │         │ Deep Research │         │  WEB DEV WING │
-   │ Rocketry / AI │         │  Astrophysics │         │  Portals / 3D │
-   └───────────────┘         └───────────────┘         └───────┬───────┘
-                                                               │
-                                  ┌────────────────────────────┴─────────────┐
-                                  ▼                                          ▼
-                         [ Interactive 3D WebGL ]                   [ Realtime Telemetry UI ]
-```
-
-<img src="https://raw.githubusercontent.com/Nexus-Web-Development/Nexus-Web-Page/main/assets/cosmic-divider.svg" width="100%" />
-
-## 🪐 Core Domains & Tracks
-
-<details open>
-<summary><b>🔭 Click to expand/collapse Innovation Domains</b></summary>
 <br />
 
-| Domain | Focus & Deliverables | Core Tech |
-| :--- | :--- | :--- |
-| **🌌 Cosmic Portals & 3D Web** | Immersive WebGL experiences, interactive solar system models, space mission landing pages. | Three.js, GSAP, WebGL Shaders, Canvas API |
-| **🛰️ Telemetry & Ground Stations** | Real-time mission control dashboards for CanSat, high-altitude balloons, and rover sensor streaming. | Next.js, WebSockets, Chart.js, Tailwind CSS |
-| **🔬 Research Publication Hub** | Academic portals showcasing student-authored space research, whitepapers, and conference publications. | React, TypeScript, MDX, Node.js |
-| **⚡ Community & Event Engines** | Hackathon registration engines, member onboarding hubs, recruitment challenges, and live leaderboards. | Next.js, Firebase, Cloudflare, GitHub Actions |
+<a href="https://nexus-official-site.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Michroma&size=20&duration=2600&pause=900&color=4DA3F0&center=true&vCenter=true&width=760&height=50&lines=NEXUS+WEB+DEVELOPMENT;RESEARCH+%E2%80%A2+SPACE+%E2%80%A2+TECHNOLOGY;MANIPAL+UNIVERSITY+JAIPUR;WHERE+CURIOSITY+MEETS+ORBIT" alt="Nexus Web Development" />
+</a>
 
-</details>
+<p>
+  <b>The official web engineering wing of Nexus, the Research, Space &amp; Technology Club at Manipal University Jaipur.</b><br />
+  <sub>We build the club's digital home: real-time WebGL, mission-control interfaces and the platforms behind every Nexus launch.</sub>
+</p>
 
-<img src="https://raw.githubusercontent.com/Nexus-Web-Development/Nexus-Web-Page/main/assets/cosmic-divider.svg" width="100%" />
+<p>
+  <a href="https://nexus-official-site.vercel.app"><img src="https://img.shields.io/badge/%E2%86%97_Visit-nexus--official--site.vercel.app-4DA3F0?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Official site" /></a>
+</p>
 
-## 🛠️ Interactive Tech Radar
+<p>
+  <img src="https://img.shields.io/badge/Team-13_builders-F0F0FA?style=flat-square&labelColor=000000" alt="Team size" />
+  <img src="https://img.shields.io/badge/Epoch-2026--27-F0F0FA?style=flat-square&labelColor=000000" alt="Epoch" />
+  <img src="https://img.shields.io/badge/Campus-MUJ_·_Jaipur-F0F0FA?style=flat-square&labelColor=000000" alt="Campus" />
+  <img src="https://img.shields.io/badge/Under-Directorate_of_Student_Welfare-F0F0FA?style=flat-square&labelColor=000000" alt="DSW" />
+</p>
 
-<div align="center">
+<p>
+  <a href="#-mission"><b>Mission</b></a> ·
+  <a href="#-what-we-build"><b>What we build</b></a> ·
+  <a href="#-flagship-project"><b>Flagship</b></a> ·
+  <a href="#-stack"><b>Stack</b></a> ·
+  <a href="#-the-team"><b>Team</b></a> ·
+  <a href="#-join-the-mission"><b>Join us</b></a>
+</p>
 
-| Ecosystem | Technologies |
-| :--- | :--- |
-| **Frontend & Web Core** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Creative & 3D WebGL** | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white) |
-| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+<img src="https://raw.githubusercontent.com/Nexus-Web-Development/.github/main/profile/divider.svg" width="100%" alt="" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Nexus-Web-Development/Nexus-Web-Page/main/assets/cosmic-divider.svg" width="100%" />
+## 🛰️ Mission
 
-## 👥 Core Team & Collaborators
+**Nexus** is a student-led technical and research organisation at **Manipal University Jaipur**, under the Directorate of Student Welfare. It brings together students curious about space science, aerospace engineering, computational physics and modern software.
 
-<div align="center">
+The **Web Development wing** turns that research into experiences people can use, from interactive 3D science on the web to live telemetry and the platforms the club runs on.
+
+| | Nexus pillar | How the web wing supports it |
+| :---: | :--- | :--- |
+| 🔭 | **Deep Space & Astrophysics** | Visual simulations of orbits and the night sky, and a home for the astrophotography archive |
+| 📡 | **Ground Stations & Telemetry** | Real-time dashboards for sensor payloads and SDR downlinks |
+| 🌐 | **Spatial Web & Creative Computing** | WebGL, Three.js and shaders: our home turf |
+
+<div align="center"><img src="https://raw.githubusercontent.com/Nexus-Web-Development/.github/main/profile/divider.svg" width="100%" alt="" /></div>
+
+## ✨ What We Build
+
+| Domain | Focus | Core tech |
+| :--- | :--- | :--- |
+| 🌌 **Cosmic & 3D WebGL** | Interactive 3D interfaces, visual simulations, scientific storytelling | Three.js · WebGL · GLSL |
+| 🛰️ **Telemetry & Ground Stations** | Organising and presenting live sensor data in clear interfaces | WebSockets · Real-time UI · Data streams |
+| 🔬 **Research Publications Hub** | Accessible archives for student research and technical writing | MDX · LaTeX · Archives |
+| ⚡ **Community & Event Engines** | Event info, registrations and member onboarding | TypeScript · Cloudflare · Edge |
+
+<div align="center"><img src="https://raw.githubusercontent.com/Nexus-Web-Development/.github/main/profile/divider.svg" width="100%" alt="" /></div>
+
+## 🚀 Flagship Project
 
 <table>
   <tr>
-    <td align="center" colspan="3">
-      <a href="https://github.com/Vedant275">
-        <img src="https://github.com/Vedant275.png?size=100" width="85" height="85" style="border-radius: 50%;" /><br />
-        <sub><b>Vedant Sharma</b></sub>
-      </a><br />
-      <img src="https://img.shields.io/badge/Vice_President-F5CE62?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
-      <a href="https://github.com/satiricalguru">
-        <img src="https://github.com/satiricalguru.png?size=100" width="80" height="80" style="border-radius: 50%;" /><br />
-        <sub><b>Jatin Pandey</b></sub>
-      </a><br />
-      <img src="https://img.shields.io/badge/Core_Team-D4AF37?style=flat-square" />
-    </td>
-    <td align="center" width="130">
-      <a href="https://github.com/vs2030codes-ops">
-        <img src="https://github.com/vs2030codes-ops.png?size=100" width="80" height="80" style="border-radius: 50%;" /><br />
-        <sub><b>Vansh Sood</b></sub>
-      </a><br />
-      <img src="https://img.shields.io/badge/Core_Team-D4AF37?style=flat-square" />
-    </td>
-    <td align="center" width="130">
-      <a href="https://github.com/lakshya-agrawal254">
-        <img src="https://github.com/lakshya-agrawal254.png?size=100" width="80" height="80" style="border-radius: 50%;" /><br />
-        <sub><b>Lakshya</b></sub>
-      </a><br />
-      <img src="https://img.shields.io/badge/Core_Team-D4AF37?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
-      <a href="https://github.com/Aaravcodesss">
-        <img src="https://github.com/Aaravcodesss.png?size=100" width="80" height="80" style="border-radius: 50%;" /><br />
-        <sub><b>Aarav Srivastava</b></sub>
-      </a><br />
-      <img src="https://img.shields.io/badge/Core_Team-D4AF37?style=flat-square" />
-    </td>
-    <td align="center" width="130">
-      <a href="https://github.com/SynthReaper">
-        <img src="https://github.com/SynthReaper.png?size=100" width="80" height="80" style="border-radius: 50%;" /><br />
-        <sub><b>Aditya Goyal</b></sub>
-      </a><br />
-      <img src="https://img.shields.io/badge/Core_Team-D4AF37?style=flat-square" />
-    </td>
-    <td align="center" width="130">
-      <a href="https://github.com/Priyanshuf7">
-        <img src="https://github.com/Priyanshuf7.png?size=100" width="80" height="80" style="border-radius: 50%;" /><br />
-        <sub><b>Priyanshu</b></sub>
-      </a><br />
-      <img src="https://img.shields.io/badge/Core_Team-D4AF37?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
-      <a href="https://github.com/saadseraj130-arch">
-        <img src="https://github.com/saadseraj130-arch.png?size=100" width="80" height="80" style="border-radius: 50%;" /><br />
-        <sub><b>Saad Seraj</b></sub>
-      </a><br />
-      <img src="https://img.shields.io/badge/Core_Team-D4AF37?style=flat-square" />
-    </td>
-    <td align="center" width="130">
-      <a href="https://github.com/Arnav2008">
-        <img src="https://github.com/Arnav2008.png?size=100" width="80" height="80" style="border-radius: 50%;" /><br />
-        <sub><b>Arnav Singh</b></sub>
-      </a><br />
-      <img src="https://img.shields.io/badge/Core_Team-D4AF37?style=flat-square" />
-    </td>
-    <td align="center" width="130">
-      <a href="https://github.com/Rashmi-builds">
-        <img src="https://github.com/Rashmi-builds.png?size=100" width="80" height="80" style="border-radius: 50%;" /><br />
-        <sub><b>Rashmi</b></sub>
-      </a><br />
-      <img src="https://img.shields.io/badge/Core_Team-D4AF37?style=flat-square" />
+    <td width="55%"><a href="https://nexus-official-site.vercel.app"><img src="https://raw.githubusercontent.com/Nexus-Web-Development/.github/main/profile/showcase.png" alt="Nexus official site" /></a></td>
+    <td>
+      <h3><a href="https://github.com/Nexus-Web-Development/Nexus-Web-Page">Nexus-Web-Page</a></h3>
+      <p>The official Nexus website: one continuous, scroll-driven WebGL journey.</p>
+      <ul>
+        <li>Shader planet with atmosphere and a sunrise finale</li>
+        <li>9,216 particles morphing from orbits to a radio dish to data terrain</li>
+        <li>GSAP + Lenis choreography and a pinned-chapter story</li>
+        <li>The full 2026–27 crew, driven by a single data file</li>
+      </ul>
+      <a href="https://nexus-official-site.vercel.app"><b>Launch ↗</b></a> · <a href="https://github.com/Nexus-Web-Development/Nexus-Web-Page"><b>Source</b></a>
     </td>
   </tr>
 </table>
 
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/Nexus-Web-Development/.github/main/profile/divider.svg" width="100%" alt="" /></div>
 
-<img src="https://raw.githubusercontent.com/Nexus-Web-Development/Nexus-Web-Page/main/assets/cosmic-divider.svg" width="100%" />
-
-## 🛰️ Active Projects
-
-<details open>
-<summary><b>🚀 Click to inspect current repository roadmap</b></summary>
-<br />
-
-1. **Nexus Web Portal** (`Nexus-Web-Page`):
-   - Interactive 3D hero animation built with Three.js.
-   - Comprehensive showcase of Nexus MUJ research papers, rocketry projects, and club chapters.
-2. **Ground Station Telemetry**:
-   - Web-based telemetry dashboard visualizing altitude, temperature, GPS trajectories, and payload stats in real-time.
-3. **Cosmic UI Design System**:
-   - Tailored gold-and-void dark aesthetic tailored specifically for deep-tech and space projects.
-
-</details>
-
-<img src="https://raw.githubusercontent.com/Nexus-Web-Development/Nexus-Web-Page/main/assets/cosmic-divider.svg" width="100%" />
-
-## 🤝 How to Contribute
-
-We welcome contributions from developers, designers, and space enthusiasts across Manipal University Jaipur and the global open-source community!
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Nexus-Web-Development/Nexus-Web-Page.git
-
-# 2. Create your feature branch
-git checkout -b feature/cosmic-feature
-
-# 3. Commit your changes
-git commit -m "feat: add cosmic interaction"
-
-# 4. Push to origin and open a Pull Request
-git push origin feature/cosmic-feature
-```
-
----
+## 🛠️ Stack
 
 <div align="center">
-  <b>🌐 Organization: <a href="https://github.com/Nexus-Web-Development">Nexus-Web-Development</a></b><br />
-  <sub>Pioneering Space & Technology through Code • © 2026 Nexus MUJ</sub>
+
+**In production**<br />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+<img src="https://img.shields.io/badge/GLSL-000000?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL" />
+<img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
+**In our toolkit**<br />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Nexus-Web-Development/.github/main/profile/divider.svg" width="100%" alt="" /></div>
+
+## 👥 The Team
+
+<p align="center"><i>13 builders · 2026–27</i></p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/Vedant275">
+        <img src="https://github.com/Vedant275.png?size=100" width="80" height="80" alt="Vedant Sharma" /><br />
+        <sub><b>Vedant Sharma</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Vice_President-F0F0FA&labelColor=000000?style=flat-square" alt="Vice President" />
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/Tejas-Narula">
+        <img src="https://github.com/Tejas-Narula.png?size=100" width="80" height="80" alt="Tejas Narula" /><br />
+        <sub><b>Tejas Narula</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/TechOps_Lead-F0F0FA&labelColor=000000?style=flat-square" alt="TechOps Lead" />
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/Kaustav5505g">
+        <img src="https://github.com/Kaustav5505g.png?size=100" width="80" height="80" alt="Kaustav Paul" /><br />
+        <sub><b>Kaustav Paul</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Team_Head-F0F0FA&labelColor=000000?style=flat-square" alt="Team Head" />
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/shaazadil">
+        <img src="https://github.com/shaazadil.png?size=100" width="80" height="80" alt="Shaaz Adil" /><br />
+        <sub><b>Shaaz Adil</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Team_Head-F0F0FA&labelColor=000000?style=flat-square" alt="Team Head" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/satiricalguru">
+        <img src="https://github.com/satiricalguru.png?size=100" width="80" height="80" alt="Jatin Pandey" /><br />
+        <sub><b>Jatin Pandey</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Core_Team-4DA3F0?style=flat-square" alt="Core Team" />
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/SynthReaper">
+        <img src="https://github.com/SynthReaper.png?size=100" width="80" height="80" alt="Aditya Goyal" /><br />
+        <sub><b>Aditya Goyal</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Core_Team-4DA3F0?style=flat-square" alt="Core Team" />
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/lakshya-agrawal254">
+        <img src="https://github.com/lakshya-agrawal254.png?size=100" width="80" height="80" alt="Lakshya" /><br />
+        <sub><b>Lakshya</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Core_Team-4DA3F0?style=flat-square" alt="Core Team" />
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/vs2030codes-ops">
+        <img src="https://github.com/vs2030codes-ops.png?size=100" width="80" height="80" alt="Vansh Sood" /><br />
+        <sub><b>Vansh Sood</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Core_Team-4DA3F0?style=flat-square" alt="Core Team" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/Aaravcodesss">
+        <img src="https://github.com/Aaravcodesss.png?size=100" width="80" height="80" alt="Aarav Srivastava" /><br />
+        <sub><b>Aarav Srivastava</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Core_Team-4DA3F0?style=flat-square" alt="Core Team" />
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/Priyanshuf7">
+        <img src="https://github.com/Priyanshuf7.png?size=100" width="80" height="80" alt="Priyanshu" /><br />
+        <sub><b>Priyanshu</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Core_Team-4DA3F0?style=flat-square" alt="Core Team" />
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/saadseraj130-arch">
+        <img src="https://github.com/saadseraj130-arch.png?size=100" width="80" height="80" alt="Saad Seraj" /><br />
+        <sub><b>Saad Seraj</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Core_Team-4DA3F0?style=flat-square" alt="Core Team" />
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/Arnav2008">
+        <img src="https://github.com/Arnav2008.png?size=100" width="80" height="80" alt="Arnav Singh" /><br />
+        <sub><b>Arnav Singh</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Core_Team-4DA3F0?style=flat-square" alt="Core Team" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/Rashmi-builds">
+        <img src="https://github.com/Rashmi-builds.png?size=100" width="80" height="80" alt="Rashmi" /><br />
+        <sub><b>Rashmi</b></sub>
+      </a><br />
+      <img src="https://img.shields.io/badge/Core_Team-4DA3F0?style=flat-square" alt="Core Team" />
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Nexus-Web-Development/.github/main/profile/divider.svg" width="100%" alt="" /></div>
+
+## 🤝 Join the Mission
+
+Students from MUJ who are curious about 3D on the web, shaders, real-time data or space are welcome, whatever your experience level.
+
+```bash
+git clone https://github.com/Nexus-Web-Development/Nexus-Web-Page.git
+cd Nexus-Web-Page && npm install && npm run dev
+```
+
+1. Pick an issue or propose an idea.
+2. Branch off `main`: `feat/your-idea`.
+3. Open a pull request using Conventional Commits.
+
+<div align="center">
+
+<br />
+
+<a href="https://www.instagram.com/nexus_muj/"><img src="https://img.shields.io/badge/Instagram-@nexus__muj-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/company/nexus-manipal-jaipur/"><img src="https://img.shields.io/badge/LinkedIn-Nexus_Manipal_Jaipur-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nexus@jaipur.manipal.edu"><img src="https://img.shields.io/badge/Email-nexus@jaipur.manipal.edu-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/Nexus-Web-Development/.github/main/profile/logo.png" width="110" alt="Nexus logo" />
+
+<sub><b>Nexus Web Development</b> · Research, Space &amp; Technology Club<br />
+Manipal University Jaipur · 26.8439° N, 75.5652° E · © 2026 Nexus MUJ</sub>
+
 </div>
